@@ -56,3 +56,7 @@ This has been updated to be used as `macdefaults` instead of `mac-defaults` to b
 # To Do
 
 * Move the working parts to Ruby to better support dictionaries and arrays, as well as to remove the dependency on `grep`.
+
+## macOS Version Compatibility
+
+Tested and compatible with macOS 26 (Tahoe).
